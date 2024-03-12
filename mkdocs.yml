@@ -1,0 +1,5 @@
+site_name: 自然语言处理学习笔记
+site_url: https://nlp.gujiakai.top/
+nav:
+  - 绪论: index.md
+theme: readthedocs
